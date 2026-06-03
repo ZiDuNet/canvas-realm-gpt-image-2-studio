@@ -16,6 +16,6 @@ backups/*
 !backups/.gitkeep
 generated-images/
 coverage/
-内部图片生成系统-backups
+internal-image-backups
 ._*
 **/._*
